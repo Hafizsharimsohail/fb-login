@@ -61,9 +61,11 @@ input{
     font-size: 18px;
     border-radius: 10px;
 }
-input[type="Login" ]{
+.login{
     background-color: royalblue;
-    color: white;
+    color: yellow;
+    width="100"
+    
 }
 p{
     color: royalblue;
