@@ -61,7 +61,7 @@ input{
     font-size: 18px;
     border-radius: 10px;
 }
-.login{
+input[login]{
     background-color: royalblue;
     color: white;
      width: 50px;
