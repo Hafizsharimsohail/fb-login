@@ -63,8 +63,11 @@ input{
 }
 .login{
     background-color: royalblue;
-    color: yellow;
-    width="100"
+    color: white;
+     width: 450px;
+    height: 370px;
+    
+    
     
 }
 p{
