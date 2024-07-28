@@ -61,7 +61,7 @@ input{
     font-size: 18px;
     border-radius: 10px;
 }
-input[type="submit" ]{
+input[type="Login" ]{
     background-color: royalblue;
     color: white;
 }
