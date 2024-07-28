@@ -61,10 +61,10 @@ input{
     font-size: 18px;
     border-radius: 10px;
 }
-input[login]{
+input [type="login"]{
     background-color: royalblue;
     color: white;
-     width: 50px;
+     
     
     
     
